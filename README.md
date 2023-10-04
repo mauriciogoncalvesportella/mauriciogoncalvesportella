@@ -23,20 +23,19 @@
 <hr>
 <p align="center">Segue em minhas redes sociais</p>
 
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://www.facebook.com/seu-perfil" target="_blank">
-        <i class="fab fa-facebook" style="font-size: 24px;"></i>
+<div class="social-icons">
+    <a href="https://www.facebook.com/profile.php?id=100042045107154" target="_blank">
+        <i class="fab fa-facebook"></i>
     </a>
-    <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-        <i class="fab fa-linkedin" style="font-size: 24px;"></i>
+    <a href="https://www.linkedin.com/in/mgpprogramer/" target="_blank">
+        <i class="fab fa-linkedin"></i>
     </a>
-    <a href="https://api.whatsapp.com/send?phone=seu-numero-de-whatsapp" target="_blank">
-        <i class="fab fa-whatsapp" style="font-size: 24px;"></i>
+    <a href="https://wa.me/41998848881/?text=Olá%20amigo"" target="_blank">
+        <i class="fab fa-whatsapp"></i>
     </a>
-    <a href="https://github.com/seu-usuario" target="_blank">
-        <i class="fab fa-github" style="font-size: 24px;"></i>
+    <a href="https://github.com/mauriciogoncalvesportella" target="_blank">
+        <i class="fab fa-github"></i>
     </a>
 </div>
-
 
 <hr>
