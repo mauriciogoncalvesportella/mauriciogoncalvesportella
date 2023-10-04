@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao perfil de Maurício Gonçalves Portella 😁
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 <div>
     <a href="https://github.com/mauriciogoncalvesportella">
@@ -15,23 +16,27 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align=center alt="Python" height="30" width="40"
+    <img align="center" alt="Python" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-<br>
-<hr><br>
-### Segue minhas redes sociais.
+<hr>
+<p align="center">Segue em minhas redes sociais</p>
 
-<div><br>
-    <a href="https://www.linkedin.com/in/mgpprogramer/">
-        <img align="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40">
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://www.facebook.com/seu-perfil" target="_blank">
+        <i class="fab fa-facebook" style="font-size: 24px;"></i>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100042045107154">
-        <img align="facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" width="40">
+    <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+        <i class="fab fa-linkedin" style="font-size: 24px;"></i>
     </a>
-    <a href="https://github.com/mauriciogoncalvesportella">
-        <img align="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40">
+    <a href="https://api.whatsapp.com/send?phone=seu-numero-de-whatsapp" target="_blank">
+        <i class="fab fa-whatsapp" style="font-size: 24px;"></i>
+    </a>
+    <a href="https://github.com/seu-usuario" target="_blank">
+        <i class="fab fa-github" style="font-size: 24px;"></i>
     </a>
 </div>
+
+
 <hr>
