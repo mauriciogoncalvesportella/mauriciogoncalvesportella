@@ -1,42 +1,45 @@
-<div align="center">
-    <h1>Bem-vindo(a) ao perfil de Maurício Gonçalves Portella 😁</h1>
+<h2 align="left">Olá 👋! Me chamo Maurício Gonçalves Portella e sou um programador / desenvolvedor JAVA</h2>
+
+###
+
+<p align="left">Ferramentas de manuseio.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<div align="center">
-    <a href="https://github.com/mauriciogoncalvesportella" style="text-decoration: none !important;">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight" />
-    </a>
-</div>
-<div align="center">
-    <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-    <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-    <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
-    <img src="https://img.icons8.com/nolan/2x/python.png" width="120" alt="Python">
-</div>
-<div align="center">
-    <a href="https://www.linkedin.com/in/mgpprogramer/" target="_blank" style="text-decoration: none !important;">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"
-            target="_blank">
-    </a>
-    <a href="https://wa.me/41998848881/?text=Olá%20amigo" target="_blank" style="text-decoration: none !important;">
-        <img src="https://img.shields.io/badge/-Whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white&color=green"
-            target="_blank">
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100042045107154" target="_blank" style="text-decoration: none !important;">
-        <img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=black&color=darkblue"
-            target="_blank">
-    </a>
-    <a href="mailto:elechous@gmail.com" target="_blank" style="text-decoration: none !important;">
-        <img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=yellow&color=darkwhite"
-            target="_blank">
-    </a>
-    <a href="https://discord.com/channels/822116253577248818/822117359305097247?fingerprint=580624315494694912&attemptId=d07d5b22-3782-4b97-88bd-6cfa44f734e3"
-        target="_blank" style="text-decoration: none !important;">
-        <img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=black&color=darkred"
-            target="_blank">
-    </a>
+###
 
+<p align="left">Redes Sociais.</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif"  />
+</div>
+
+###
