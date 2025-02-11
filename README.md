@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Me chamo Maurício Gonçalves Portella e sou um programador / desenvolvedor JAVA</h2>
+<h2 align="left">Olá 👋! Me chamo Maurício Gonçalves Portella</h2>
 
 ###
 
